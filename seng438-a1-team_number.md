@@ -67,7 +67,9 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Our group of 4 was divided into 2 groups to carry out the pair testing on the ATM simulation system. The method of pair testing we followed was each of the members of a pair took turns at being a tester and reviewer. We implemented the pair testing on the exploratory testing method explained in the lab documentation. 
+Before carrying out our exploratory test plan mentioned above, both the pairs wrote down the main functionalities of the ATM simulation system after thoroughly reading the high level requirements. We made sure to understand what was expected of the system in each of the 5 categories that we divided to test the system in.
+Each pair got 30 minutes to carry out the exploratory test plan on the 5 categories separately and reported all the bugs that we came across. After the 30 minutes were up, both the pairs came together to share with each other their findings and reported all the bugs in Azure.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
