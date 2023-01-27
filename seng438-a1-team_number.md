@@ -3,11 +3,11 @@
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 | Group: Group Number      |
-|-----------------|
-| Student 1 name   Hridika Banik  | 
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+|-----------------         |
+| Hridika Banik            | 
+| MD Shaherier Khan        |   
+| Syed Mohammed Abbas Kazmi|   
+| Radia Jannat             |   
 
 
 **Table of Contents**
@@ -17,17 +17,23 @@
 
 [1 Introduction	1](#_Toc439194677)
 
+
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+
 
 [3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
 
+
 [4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+
 
 [5 How the pair testing was managed and team work/effort was
 divided	1](#_Toc439194681)
 
+
 [6 Difficulties encountered, challenges overcome, and lessons
 learned	1](#_Toc439194682)
+
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
@@ -38,7 +44,21 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+The plan used was pretty simple where 2 group members worked on testing and reporting 
+while 2 group members worked on writing on azure devops however, there were occasional
+swaps where a group member testing became the group member writing the test and vise versa.
+
+The testing was divided into 5 Sectors:
+ System login/ System startup and System shutdown
+Deposit 
+Withdraw
+Balance Inquiry 
+Transfer 
+The group members who were responsible for testing; started by dividing the 5 sectors and then 
+manually entering each sector and performing  tests and checking if the functionality matches 
+the promises given in the description in github. 
+
+
 
 # Comparison of exploratory and manual functional testing
 
