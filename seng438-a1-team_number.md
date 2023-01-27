@@ -40,6 +40,12 @@ divided	1](#_Toc439194681)
 3.Time Management: It was a challenge to balance the workload among team members and ensure that testing is completed within a reasonable timeframe.We set a targeted time to work on the assignment outside the lab hour to make sure the project was completed on time.
 4.Eliminating Redundancy: Since multiple testers were testing the system, a lot of the errors found were redundant and explored by several team members which later had to be identified and eliminated. 
 
+Lessons: 
+1.Communication between group members is essential, as this could have avoided many redundancies. 
+2.Have thorough knowledge of the distinctions between the three forms of testing, as well as the ability to use these testing approaches in practice in real-world situations.
+3.Learned how to operate a new bug tracking tool called Azure Devops.
+
+
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
