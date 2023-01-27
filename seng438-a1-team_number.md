@@ -33,8 +33,7 @@ The objective of this lab was to impart a understanding of the fundamental princ
 divided	1](#_Toc439194681)
 
 
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1]
+[6 Difficulties encountered, challenges overcome, and lessons learned	1]
 
 1.Creating a test plan: It was very hard initially to come up with an appropriate plan to do the exploratory testing as it can be challenging to ensure that all test cases are comprehensive and cover all relevant scenarios. Hence, an appropriate test planning was done to ensure all areas of the software functionalities were covered.
 2.Coordination: It was difficult to coordinate the efforts of all the team members,since pair testing was done and a group inside a group existed. 
