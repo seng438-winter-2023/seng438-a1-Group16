@@ -55,11 +55,6 @@ Lessons:
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
-# Introduction
-
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
-
 # High-level description of the exploratory testing plan
 
 
