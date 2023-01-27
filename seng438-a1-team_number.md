@@ -56,7 +56,7 @@ Withdraw
 Balance Inquiry 
 Transfer
 
-Since we decided to limit ourself to half an hour, we allocated six mins for each categories. In these six minutes each pair randomly go through the categories and performing  tests and checking if the functionality matches the promises given in the description in github. 
+Since we decided to limit ourself to half an hour, we allocated six mins for each categories. In these six minutes each pair randomly went through the categories and performing  tests and checking if the functionality matches the promises given in the description in github. 
 
 
 
