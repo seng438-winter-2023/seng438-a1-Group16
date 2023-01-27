@@ -30,7 +30,7 @@
 divided	1](#_Toc439194681)
 
 
-[6 Difficulties encountered, challenges overcome, and lessons learned	1]
+[6 Difficulties encountered, challenges overcome, and lessons learned	1](#_Toc439194682)
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 # Introduction 
