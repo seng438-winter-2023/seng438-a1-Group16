@@ -97,4 +97,4 @@ Lessons:
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+The documentation was pretty long counld have been more consise.
