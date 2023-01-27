@@ -16,6 +16,7 @@
 “Update Field”)
 
 [1 Introduction	1](#_Toc439194677)
+
 The objective of this lab was to impart a understanding of the fundamental principles of software testing. Through the practical implementation of manual testing techniques, we were able to identify and document defects within the system under examination. This was achieved through the execution of three distinct testing methodologies, specifically Exploratory testing, Manual Scripted testing and Regression testing as outlined in the laboratory instruction manual.Initially, our team had a limited understanding of the various testing methodologies. We had a basic understanding that in Exploratory Testing, test cases are not predetermined and it focuses more on the cognitive aspect of testing rather than pre-planning and executing predefined test cases. We had a moderate understanding of Manual Scripted Testing, which involves identifying the system's requirements and developing test cases to verify if the system meets those requirements. Following the completion of this laboratory, we have acquired a comprehensive understanding of the differences between the three types of testing, as well as the practical application of these testing methodologies in real-world scenarios.
 
 
