@@ -46,19 +46,18 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-The plan used was pretty simple where 2 group members worked on testing and reporting 
-while 2 group members worked on writing on azure devops however, there were occasional
-swaps where a group member testing became the group member writing the test and vise versa.
 
-The testing was divided into 5 Sectors:
+We started off by reading the document given to us on github. Then ,we started noting the functionality of the  ATM into different categories.
+
+The testing was then divided into 5 categories:
  System login/ System startup and System shutdown
 Deposit 
 Withdraw
 Balance Inquiry 
-Transfer 
-The group members who were responsible for testing; started by dividing the 5 sectors and then 
-manually entering each sector and performing  tests and checking if the functionality matches 
-the promises given in the description in github. 
+Transfer
+
+Since we decided to limit ourself to half an hour, we allocated six mins for each categories. In these six minutes each pair randomly go through the categories and performing  tests and checking if the functionality matches the promises given in the description in github. 
+
 
 
 
